@@ -1,0 +1,12 @@
+server:
+  port: 8090
+
+spring:
+  data:
+    mongodb:
+      username: hansaka
+      password: hansaka
+      host: localhost
+      port: 27017
+      database: ms_customer_db
+      authentication-database: admin
